@@ -15,16 +15,32 @@ I am a passionate and motivated **Full Stack Developer** with strong interest in
 
 ---
 
-## 🧠 Skills
+## 🧰 TECH STACK
 
-### 💻 Frontend
-HTML | CSS | JavaScript | React (Learning)
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-### ⚙️ Backend
-Node.js | Java | Python
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
-### 🗄️ Database
-MongoDB | MySQL
+### ⚙️ Frameworks & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flask" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
