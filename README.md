@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 ADITHYAN S</h1>
 
 <p align="center">
-  <b>Junior Full Stack Developer</b> • <b>AI & Data Science Student</b> • <b>Prompt Engineer</b>
+  <b>Junior Full Stack Developer</b> | <b>AI & Data Science Student</b> 
 </p>
 
 ---
