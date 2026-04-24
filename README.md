@@ -30,9 +30,9 @@ MongoDB | MySQL
 
 **🎓 Education**
 ---
-B.Sc. Computer Science (Artificial Intelligence & Data Science) VET Institute of Arts and Science College, Erode 2024 – 2027
+**B.Sc. Computer Science (Artificial Intelligence & Data Science)** VET Institute of Arts and Science College, Erode 2024 – 2027
 
-Higher Secondary Education (12th Standard) Completed in 2024
+**Higher Secondary Education (12th Standard)** Completed in 2024
 
 ---
 
