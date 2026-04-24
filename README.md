@@ -1,6 +1,20 @@
-# 👨‍💻 ADITHYAN S
+<h1 align="center">👨‍💻 Adithyan S</h1>
 
-### 🚀 Junior Full Stack Developer | AI & Data Science Student
+<p align="center">
+  🚀 Full Stack Developer | 🤖 AI & Data Science Student
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-AI-orange?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
