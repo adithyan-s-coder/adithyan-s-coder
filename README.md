@@ -1,16 +1,11 @@
-<h1 align="center">👨‍💻 Adithyan S</h1>
+<h1 align="center">Adithyan S</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • <b>AI & Data Science Student</b>
+  Full Stack Developer • AI & Data Science Student
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Learning-AI-222222?style=flat-square&logo=openai&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adithyanscoder&color=0A66C2&style=flat-square"/>
+  <i>Building modern web applications & learning AI</i>
 </p>
 
 ---
