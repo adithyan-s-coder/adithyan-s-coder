@@ -27,8 +27,11 @@ Node.js | Java | Python
 MongoDB | MySQL
 
 ---
-🎓 Education
+
+**🎓 Education**
+---
 B.Sc. Computer Science (Artificial Intelligence & Data Science) VET Institute of Arts and Science College, Erode 2024 – 2027
+
 Higher Secondary Education (12th Standard) Completed in 2024
 
 ---
