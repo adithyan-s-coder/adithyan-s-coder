@@ -1,11 +1,7 @@
-<h1 align="center">Adithyan S</h1>
+<h1 align="center">👨‍💻 ADITHYAN S</h1>
 
 <p align="center">
-  Full Stack Developer • AI & Data Science Student
-</p>
-
-<p align="center">
-  <i>Building modern web applications & learning AI</i>
+  <b>Junior Full Stack Developer</b> • <b>AI & Data Science Student</b> • <b>Prompt Engineer</b>
 </p>
 
 ---
