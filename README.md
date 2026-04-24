@@ -64,7 +64,7 @@ I am a passionate and motivated **Full Stack Developer** with strong interest in
 ## 📌 Projects
 
 🔹 Portfolio Website  
-🔹 Digital outpass system web application
+🔹 Digital outpass system web application<br></br>
 🔹 More coming soon...
 
 ---
